@@ -3,7 +3,7 @@ import React from "react";
 const home = () => {
   return (
     <section>
-      <div className="min-h-screen flex justify-center items-center flex-col">
+      <div className="min-h-[calc(100vh-150px)] flex justify-center items-center flex-col">
         <div className=" text-5xl font-bold text-center mb-4">
           Welcome to my site
         </div>
