@@ -3,6 +3,7 @@ import Navbar from './components/navbar'
 import Home from './components/home'
 import About from './components/About'
 import Projects from './components/projects'
+import Contact from './components/contact'
 
 function App() {
   
@@ -13,6 +14,7 @@ function App() {
         <Home />
         <About/>
         <Projects/>
+        <Contact/>
       </div>
     </>
   )
